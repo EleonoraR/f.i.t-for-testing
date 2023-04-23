@@ -1,4 +1,4 @@
-let helloMessage = "Hello beautiful female in tech";
+let helloMessage = "Hello beautiful females in tech";
 let btn = document.getElementById("click-btn");
 function pressBtn(){
     alert(helloMessage);
