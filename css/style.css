@@ -52,3 +52,16 @@ footer {
         padding-left: 10px;
     }
 }
+@media screen and (max-width:450px) {
+    .nav-bar {
+        text-align: center;
+        font-size: 0.7rem;
+    }
+    .nav-li {
+        display: block;
+    }
+
+    .nav-li-a {
+        padding-left: 5px;
+    }
+}
