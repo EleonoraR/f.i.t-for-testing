@@ -42,7 +42,7 @@ footer {
     padding: 20px;
     /*Ella May 9, 2023*/
     font-size: 0.8rem;
-    text-transform: lowercase;
+    text-transform: capitalize;
 }
 @media screen and (max-width:700px){
     .nav-bar{
